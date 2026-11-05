@@ -10,9 +10,14 @@ The project focuses on a **single effective qubit implemented using an NV ensemb
 
 ## What this repository contains
 
+### Technical documents
 Documents such as a bill of materials, STL files for the optical setup, and control software will be added as development progresses.
 
 - [Product requirements document (PRD)](PRD.md)
+
+### Video descriptions
+
+1. [I'm a Mathematician, So I'm Building a Qubit – In a Shoebox](videos/video_01.md) ([YouTube](https://youtu.be/8iLudTZ9914))
 
 ## Scientific background and prior work
 
